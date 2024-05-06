@@ -3,7 +3,6 @@ import pygame
 import game
 import ui
 
-
 def main():
     pygame.init()
     width, height = 800, 600
